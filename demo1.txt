@@ -1,2 +1,5 @@
 is a Git repository-demo1.txt
 Hello Git!
+
+one update good!
+two update
